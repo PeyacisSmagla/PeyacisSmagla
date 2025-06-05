@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Peyacis Smagla
 
-I'm a passionate **Frontend Developer** from Chennai with hands-on experience building fast, responsive, and modern web apps using **React**, **Next.js**, and a range of UI frameworks like **Tailwind CSS** and **Material UI**.
+Software Developer
 
 - 🛠️ Tech I'm fluent in: `JavaScript`, `TypeScript`, `React`, `Next.js`, `Tailwind CSS`, `Redux`, `Zustand`
-- 🔌 Backend basics: `Node.js`, `MongoDB`, `Python`
-- 🧠 Currently learning: `Full-stack development` and `DevOps workflows (GitHub Actions, AWS)`
+- 🔌 Backend: `Node.js`, `MongoDB`, `Python` SQLLite
 - 📫 Reach me: peyacis03@gmail.com | [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/PeyacisSmagla)
 
 ---
