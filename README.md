@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peyacis Smagla
+# I'm Peyacis Smagla
 
 Software Developer
 
@@ -26,7 +26,7 @@ Software Developer
 
 ### 🚀 Projects
 - 💬 **Chat App** – Real-time messaging app with image sharing and chat history
-- 🛒 **E-Commerce Store** – Fully responsive store built with Next.js + Tailwind + PrimeReact
+- 🛒 **E-Commerce Store** – Fully responsive store built with Next.js + Tailwind + PrimeReact [Link](https://dhurgaranitex.com/)
 - 📡 **IoT Dashboard** – Firmware update portal built with React + Redux + Material UI
 
 ---
