@@ -3,7 +3,7 @@
 Software Developer
 
 - 🛠️ Frontend: `JavaScript`, `TypeScript`, `React`, `Next.js`, `Tailwind CSS`, `Redux`, `Zustand`
-- 🔌 Backend: `Node.js`, `MongoDB`, `Python`
+- 🔌 Backend: `Node.js`, `MongoDB`, `Python`, `FastAPI`
 - 📫 Reach me: peyacis03@gmail.com | [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/PeyacisSmagla)
 
 ---
